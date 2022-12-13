@@ -1,0 +1,89 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    background-color:tan ;
+}
+
+.purple{
+    background-color: seashell;
+    border: 2px solid;
+    position: absolute;
+}
+.header{
+    top: 8px;
+    left:5px;
+    right: 50px;
+    height: 100px;
+    text-align: center;
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+.return{
+
+left: 5px;
+bottom: 20px;
+
+}
+.body{
+    top: 160px;
+    left: 5px;
+    bottom: 20px;
+    width: 100px;
+}
+.resource{
+    top:160px;
+    left: 114px;
+    right: 1px;
+    bottom: 20px;
+
+}
+.menu{
+    bottom: -50px;
+    left: 5px;
+    right: 5px;
+    height: 20px;
+}
+
+.footer{
+    bottom: 10px;
+    left: 5px;
+    height: 25;
+    font-size: 8px;
+    text-align: center;
+    padding-top: 15px;
+    position: fixed;
+}
+
+.custom{
+font-weight: bold;
+
+}
+
+.center{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.index{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bold{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    color: black;
+    size: 30;
+    position: absolute;
+    left: 5px;
+}
+
+.mystuff{
+    background-color:whitesmoke;
+}
+.list{
+left: 5px;
+bottom: 10px;
+}
